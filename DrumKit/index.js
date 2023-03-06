@@ -71,5 +71,3 @@ function buttonAnimation(currrentKey){
 // var s=document.querySelectorAll(".drum")[i];
 // var b=s.innerHTML;
 // alert("b");
-// var audio=new Audio("sounds/snare.mp3");
-// audio.play();
